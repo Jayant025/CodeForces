@@ -5,7 +5,6 @@ int main(){
    cin>>n;
    int m;
    cin>>m;
-   int cnt=0;
    int sq=m*n;
    int ans=sq/2;
    cout<<ans;
